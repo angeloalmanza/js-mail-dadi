@@ -15,3 +15,8 @@ Stabilire il vincitore, in base a chi fa il punteggio più alto.
 - chiedo all'utente di inserire la sua mail
 - con un ciclo for controllo se la mail dell'utente è presente nell'array
 - stampo il messaggio a seconda se la mail è presente o meno nell'array
+
+## Dadi
+- generazione numero casuale per l'utente e per il computer
+- confronto risultati
+- stampo il messaggio del vncitore o del pareggio
